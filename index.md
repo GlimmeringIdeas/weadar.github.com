@@ -4,21 +4,31 @@
 
 ### 碎语随记
 
-- `2018年7月1日`
+- [琢磨Swift4.0](https://weadar.github.io/Swift)
+  - Swift语法与谨记
 
-  [琢磨Swift4.0基础语法](https://weadar.github.io/swift_base)
 
-- `2018年8月1日`
 
-  [HTTPS及应用层](https://weadar.github.io/https)
+- [网络及应用层](https://weadar.github.io/Network)
 
-- `2018年8月1日`
+  - HTTPS与HTTP的区别
 
-  [About AFNetworking](https://weadar.github.io/AFNetworking)
+
+
+
+- [About AFNetworking](https://weadar.github.io/AFNetworking)
+
+  - AFHTTPSessionManager和AFURLSessionManager两者的区别
+
+    
+
+- [函数式编程](https://weadar.github.io/ReactiveCocoa)
+
+​    
 
 ---
 
-**联系方式**：284247180
+**RESUME**：https://weadar.github.io/Resume
 
-**技术地址**：www.baidu.com
+**CONTACT**：284247180@qq.com
 
