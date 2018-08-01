@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## linweida的博客
 
-You can use the [editor on GitHub](https://github.com/weadar/weadar.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> 记录些日常的笔记，不止于工作。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 碎语随记
 
-### Markdown
+- `2018年7月1日`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  [琢磨Swift4.0基础语法](https://weadar.github.io/swift_base)
 
-```markdown
-Syntax highlighted code block
+- `2018年8月1日`
 
-# Header 1
-## Header 2
-### Header 3
+  [HTTPS及应用层](https://weadar.github.io/https)
 
-- Bulleted
-- List
+- `2018年8月1日`
 
-1. Numbered
-2. List
+  [About AFNetworking](https://weadar.github.io/AFNetworking)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+**联系方式**：284247180
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**技术地址**：www.baidu.com
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weadar/weadar.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
