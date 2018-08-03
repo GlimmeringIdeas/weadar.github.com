@@ -6,6 +6,10 @@
 
 ![打包时未添加JNPlugin模块](assets/Hbuilder_01.png)
 
+​	解决办法：自己添加的插件需要绑定到feature.plist
+
+![打包时未添加JNPlugin模块](assets/Hbuilder_03.png)
+
 
 
 2. 如果涉及到依赖库没有加载到？
