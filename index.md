@@ -18,8 +18,16 @@
   - [HTML](https://weadar.github.io/HTML)
   - [CSS](https://weadar.github.io/CSS)
   - [JavaScript](https://weadar.github.io/JavaScript)
-
 - [面对Hbuilder的神坑](https://weadar.github.io/Hbuilder)
+
+  - 解决“打包时未添加xxx模块”的提示
+  - 解决缺少依赖库的实现
+
+
+
+- [收集App开发过程的琐碎](https://weadar.github.io/Apps)
+  - 解决粘贴板不满足约束条件
+
 
 
 ---
