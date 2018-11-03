@@ -1,40 +1,70 @@
-## linweida's Home
+---
+layout: default
+title: Home
+nav_order: 1
+permalink: /
+---
 
-> 记录点东西
 
-### 碎语随记
+# Focus on writing good documentation
+{: .fs-9 }
 
-- [琢磨Swift4.0](https://weadar.github.io/Swift)
-  - Swift语法与谨记
-- [网络及应用层](https://weadar.github.io/Network)
-  - HTTPS与HTTP的区别
-- [About AFNetworking](https://weadar.github.io/AFNetworking)
-  - AFHTTPSessionManager和AFURLSessionManager两者的区别
-- [函数式编程](https://weadar.github.io/ReactiveCocoa)
-- 网页设计
-  - [HTML](https://weadar.github.io/HTML)
-  - [CSS](https://weadar.github.io/CSS)
-  - [JavaScript](https://weadar.github.io/JavaScript)
-- [面对Hbuilder的神坑](https://weadar.github.io/Hbuilder)
-  - 解决“打包时未添加xxx模块”的提示
-  - 解决缺少依赖库的实现
-- [收集App开发过程的琐碎](https://weadar.github.io/Apps)
-  - 解决粘贴板不满足约束条件
-- [Python语法](https://weadar.github.io/Python_base)
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.
+{: .fs-6 .fw-300 }
 
-- [Predicate](https://weadar.github.io/Predicate)
-
-- [认识浏览器](https://weadar.github.io/Browser)
-
-- [前端框架](https://weadar.github.io/WebFrame)
-
-- [网页安全](https://weadar.github.io/WebSafer)
-
-- [认识浏览器](https://weadar.github.io/Browser)
+[Get started now](#getting-started){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 }
 
 ---
 
-**RESUME**：https://weadar.github.io/Resume
+## Getting started
+### Dependencies
+Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/quickstart/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages standard Jekyll compiler.
 
-**CONTACT**：284247180@qq.com
+### Installation
+1. Install the Ruby Gem
+```bash
+$ gem install just-the-docs
+```
+```yaml
+# .. or add it to your your Jekyll site’s Gemfile
+gem "just-the-docs"
+```
+2. Add Just the Docs to your Jekyll site’s `config.yml`
+```yaml
+theme: "just-the-docs"
+```
+3. _Optional:_ Initialize search data (creates `search-data.json`)
+```bash
+$ bundle exec just-the-docs rake search:init
+```
+3. Run you local Jekyll server
+```bash
+$ jekyll serve
+```
+```bash
+# .. or if you're using a Gemfile (bundler)
+$ bundle exec jekyll serve
+```
+4. Point your web browser to [http://localhost:4000](http://localhost:4000)
 
+---
+
+## About the project
+
+Just the Docs is &copy; 2017 by [Patrick Marsceill](http://patrickmarsceill.com).
+
+### License
+
+Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+
+### Contributing
+
+When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+
+
+### Code of Conduct
+
+Just the Docs is committed to fostering a welcoming community.
+
+[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
