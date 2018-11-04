@@ -2,7 +2,9 @@
 
 ###  [Swift与Objective-C](https://weadar.github.io/Index_Folder/(%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)Swift_and_Objective-C)
 
-#### 
+#### [(报错与异常)Error_and_Exception](https://weadar.github.io/(%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)Swift_and_Objective-C/(%E6%8A%A5%E9%94%99%E4%B8%8E%E5%BC%82%E5%B8%B8)Error_and_Exception.md)
+
+#### [Objective-C的关键字和参数类型](https://weadar.github.io/(%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)Swift_and_Objective-C/Objective-C%E7%9A%84%E5%85%B3%E9%94%AE%E5%AD%97.md)
 
 ------
 
@@ -36,36 +38,11 @@
 
 ### [架构与设计模式](https://weadar.github.io/Index_Folder/(%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)Architectural_and_DesignPatterns)
 
+#### [二十三种设计模式](https://weadar.github.io/(%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)Architectural_and_DesignPatterns/(23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)DesignPatterns.md)
+
 ------
 
 
-
-
-- [网络及应用层](https://weadar.github.io/Network)
-  - HTTPS与HTTP的区别
-- [About AFNetworking](https://weadar.github.io/AFNetworking)
-  - AFHTTPSessionManager和AFURLSessionManager两者的区别
-- [函数式编程](https://weadar.github.io/ReactiveCocoa)
-- 网页设计
-  - [HTML](https://weadar.github.io/HTML)
-  - [CSS](https://weadar.github.io/CSS)
-  - [JavaScript](https://weadar.github.io/JavaScript)
-- [面对Hbuilder的神坑](https://weadar.github.io/Hbuilder)
-  - 解决“打包时未添加xxx模块”的提示
-  - 解决缺少依赖库的实现
-- [收集App开发过程的琐碎](https://weadar.github.io/Apps)
-  - 解决粘贴板不满足约束条件
-- [Python语法](https://weadar.github.io/Python_base)
-
-- [Predicate](https://weadar.github.io/Predicate)
-
-- [认识浏览器](https://weadar.github.io/Browser)
-
-- [前端框架](https://weadar.github.io/WebFrame)
-
-- [网页安全](https://weadar.github.io/WebSafer)
-
-- [认识浏览器](https://weadar.github.io/Browser)
 
 ---
 
